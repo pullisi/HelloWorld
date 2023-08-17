@@ -17,3 +17,5 @@ https://ping.chinaz.com/github.com
 
 cmd执行该命令：
 ipconfig /flushdns
+
+push
