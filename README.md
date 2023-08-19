@@ -19,5 +19,3 @@ cmd执行该命令：
 ipconfig /flushdns
 
 push
-
-home
